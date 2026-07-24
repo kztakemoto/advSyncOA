@@ -6,7 +6,7 @@ This project is licensed under the MIT License. When using this code, please cit
 
 Takemoto K (2026) **Analytical Foundation for Adversarial Synchronization Control in Oscillator Networks.** Chaos 36, 073138. doi: [10.1063/5.0344144](https://doi.org/10.1063/5.0344144).
 
-Preprint version: [arXiv.2605.14492](https://doi.org/10.48550/arXiv.2605.1449)
+Preprint version: [arXiv.2605.14492](https://doi.org/10.48550/arXiv.2605.14492)
 
 ## Requirements
 - Python 3.11
