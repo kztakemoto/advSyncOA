@@ -4,7 +4,9 @@ This repository contains code for the research paper "Analytical foundation for 
 ## Terms of Use
 This project is licensed under the MIT License. When using this code, please cite our paper:
 
-Takemoto K (2026) **Analytical Foundation for Adversarial Synchronization Control in Oscillator Networks.** arXiv:2605.14492. doi: [10.48550/arXiv.2605.14492](https://doi.org/10.48550/arXiv.2605.14492).
+Takemoto K (2026) **Analytical Foundation for Adversarial Synchronization Control in Oscillator Networks.** Chaos 36, 073138. doi: [10.1063/5.0344144](https://doi.org/10.1063/5.0344144).
+
+Preprint version: [arXiv.2605.14492](https://doi.org/10.48550/arXiv.2605.1449)
 
 ## Requirements
 - Python 3.11
